@@ -46,7 +46,7 @@
     "vue-template-compiler": "^2.2.0"
   },
   "dependencies": {
-    "@xyfebaby/cms-uniapp": "^0.1.25",
+    "@xyfebaby/cms-uniapp": "^0.2.1",
     "big.js": "^6.1.1",
     "vue": "^2.6.14",
     "vue-router": "^3.5.2"
