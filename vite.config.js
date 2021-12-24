@@ -9,6 +9,7 @@ function resolve(dir) {
 }
 
 module.exports = {
+  base: './',
   resolve: {
     alias:{
       '@': resolve('./src'),
