@@ -1,0 +1,1 @@
+import"./index.vue_vue_type_style_index_0_scoped_true_lang.5ecc9d90.js";uni.getSystemInfoSync();class e{linkToTarget(_,n){if(!_){console.warn("Link: Missing linkType.");return}typeof e.config[_]=="function"?e.config[_](n):console.warn(`Link: The linkType: '${_}' is not configured.`)}}e.config={};new e().linkToTarget;

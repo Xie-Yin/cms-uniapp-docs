@@ -1,0 +1,1 @@
+import{B as r}from"./index.vue_vue_type_style_index_0_scoped_true_lang.5ecc9d90.js";function t(e){return Number(e)?e<0?0:e<1e4?e:e<1e8?`${+r(e).div(1e4).toFixed(1)}\u4E07`:`${+r(e).div(1e8).toFixed(1)}\u4EBF`:e}export{t as b};
